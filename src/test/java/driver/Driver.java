@@ -5,7 +5,7 @@ import com.thoughtworks.gauge.BeforeScenario;
 import com.thoughtworks.gauge.BeforeSuite;
 import org.openqa.selenium.WebDriver;
 
-import static com.codeborne.selenide.Selenide.open;
+
 
 public class Driver {
 
